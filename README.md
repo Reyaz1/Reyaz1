@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/reyaz-ansari1999">LinkedIn</a> ·
   <a href="https://github.com/Reyaz1">GitHub</a> ·
-  <a href="https://github.com/Reyaz1/devops-portfolio-flask-app">Portfolio Project</a>
+  <a href="https://github.com/Reyaz1">Repositories</a>
 </p>
 
 ---
@@ -46,18 +46,21 @@ I’m strengthening the fundamentals first and building toward practical, produc
 
 ## 🚀 Featured Work
 
-### [DevOps Portfolio Flask App](https://github.com/Reyaz1/devops-portfolio-flask-app)
+I’m building and refining hands-on projects around application delivery, infrastructure automation, and AI-assisted operations. I’ll feature projects here when their source, documentation, and setup instructions are ready for public review.
 
-A Flask + MySQL application packaged with Docker Compose and a Jenkins pipeline configuration, with a custom responsive portfolio interface.
+### Current portfolio project — in development
 
-**What it demonstrates**
-- Containerized application and database setup
-- Environment-based configuration and persistent database storage
-- Jenkins pipeline stages for Compose validation and deployment
-- Flask health endpoint and route tests
-- Custom frontend with responsive styling and Three.js scenes
+A Flask + MySQL application with Docker Compose, Jenkins pipeline configuration, health checks, tests, and a custom portfolio interface. The repository is currently private while I review its code and history before deciding whether to publish it.
 
-> This repository is an evolving portfolio project. I’m continuing to validate the pipeline, document operational trade-offs, and improve production readiness.
+### Planned AI-powered DevOps project
+
+An engineering-focused log analysis workflow designed to:
+- Parse and classify application or infrastructure errors
+- Summarize likely causes and supporting log evidence
+- Suggest troubleshooting steps with clear reasoning
+- Keep remediation human-reviewed rather than making risky changes automatically
+
+This is a planned direction, not a completed project or a claimed production deployment.
 
 ## 🌱 What I'm Learning Next
 
